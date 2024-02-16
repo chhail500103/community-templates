@@ -8,8 +8,8 @@ zabbix_export:
   templates:
     -
       uuid: 62ccbdad40514a86bd8af2039ddf23de
-      template: Hikvision
-      name: Hikvision
+      template: Hikvision-WHFL
+      name: Hikvision-WHFL
       description: |
         ## Overview
         
